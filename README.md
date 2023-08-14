@@ -1,1 +1,1 @@
-# Thesis-interpretable-XGBoost-classifier-Smell-Pittsburgh-Project
+# Thesis interpretable XGBoost classifier Smell Pittsburgh Project
